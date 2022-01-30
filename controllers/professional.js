@@ -15,7 +15,7 @@ exports.getData = (req, res, next) => {
           "lastName": "Houssian",
           "url": "https://www.linkedin.com/in/tyler-houssian-18436b21a"
         },
-        primaryDescription: "Hi I'm a programmer",
+        primaryDescription: " Hi I'm a programmer",
         workDescription1: "I write in Node",
         workDescription2: "I write in Js",
         linkTitleText: "Check this out: ",
